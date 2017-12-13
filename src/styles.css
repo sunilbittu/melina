@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+.branding{
+    font-size: 17px
+}
+.showcase{
+    background: url('https://unsplash.com/?photo=WlP7Nkn-YT0');
+    height: 600px;
+    background: position 100;;
+    padding: 140px,100px;
+    color:black;
+}
